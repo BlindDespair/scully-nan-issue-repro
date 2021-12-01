@@ -33,9 +33,12 @@ chrome-profiler-events*.json
 # misc
 /.angular/cache
 /.sass-cache
+/.scully
+/scully.log
 /connect.lock
 /coverage
 /libpeerconnection.log
+/**/scully-routes.json
 npm-debug.log
 yarn-error.log
 testem.log
